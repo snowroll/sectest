@@ -1,0 +1,6 @@
+pyproject.toml
+src/sectest.py
+src/sectest.egg-info/PKG-INFO
+src/sectest.egg-info/SOURCES.txt
+src/sectest.egg-info/dependency_links.txt
+src/sectest.egg-info/top_level.txt
